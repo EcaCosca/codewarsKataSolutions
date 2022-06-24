@@ -16,3 +16,18 @@
 // There should be one space in between the two characters
 // You don't have to modify the case (i.e. no need to change to upper or lower)
 // If one string is longer than the other, there should be a space where the character would be
+
+function transposeTwoStrings (array) {
+	return '';
+}
+
+console.log(doTest(['Hello', 'World']))
+console.log("H W\ne o\nl r\nl l\no d");
+console.log(doTest(['joey', 'louise']))
+console.log("j l\no o\ne u\ny i\n  s\n  e");
+console.log(doTest(['a', 'cat']))
+console.log("a c\n  a\n  t");
+console.log(doTest(['cat', '']))
+console.log("c  \na  \nt  ");
+console.log(doTest(['!a!a!', '?b?b']))
+console.log("! ?\na b\n! ?\na b\n!  ");
