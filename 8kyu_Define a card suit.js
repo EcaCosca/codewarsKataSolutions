@@ -9,3 +9,19 @@
 // ('3♦') -> return 'diamonds'
 // ('3♥') -> return 'hearts'
 // ('3♠') -> return 'spades'
+
+function defineSuit(card) {
+    // good luck
+}
+
+console.log('3♣')
+console.log('clubs')
+
+console.log('3♦')
+console.log('diamonds')
+
+console.log('3♥')
+console.log('hearts')
+
+console.log('3♠')
+console.log('spades')
