@@ -7,3 +7,19 @@
 // "the-stealth-warrior" gets converted to "theStealthWarrior"
 // "The_Stealth_Warrior" gets converted to "TheStealthWarrior"
 
+function toCamelCase(str){
+
+}
+
+console.log(toCamelCase(''))
+console.log('')
+
+console.log(toCamelCase("the_stealth_warrior"))
+console.log("TheStealthWarrior")
+
+console.log(toCamelCase("The-Stealth-Warrior"))
+console.log("TheStealthWarrior")
+
+console.log(toCamelCase("A-B-C"))
+console.log("ABC")
+
