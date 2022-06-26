@@ -14,6 +14,7 @@ Here's a list of all the Katas you can find here.
 3. I love you, a little , a lot, passionately ... not at all
 4. My head is at the wrong end!
 5. Invert values
+6. Define a card suit
 
 ## 7 kyu ##
 
