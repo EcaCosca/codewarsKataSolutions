@@ -11,17 +11,28 @@
 // ('3♠') -> return 'spades'
 
 function defineSuit(card) {
-    // good luck
+    switch(card.charAt(card.length-1)){
+      case'♣':
+        return 'clubs';
+      case'♦':
+        return 'diamonds';
+      case'♥':
+        return 'hearts';
+      case'♠':
+        return 'spades';
+      default:
+        return 'Not a valid card'
+    }
 }
 
-console.log('3♣')
+console.log(defineSuit('3♣'))
 console.log('clubs')
 
-console.log('3♦')
+console.log(defineSuit('3♦'))
 console.log('diamonds')
 
-console.log('3♥')
+console.log(defineSuit('3♥'))
 console.log('hearts')
 
-console.log('3♠')
+console.log(defineSuit('3♠'))
 console.log('spades')
