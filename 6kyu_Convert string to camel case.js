@@ -9,10 +9,12 @@
 
 function toCamelCase(str){
     const arr = str.split(/-|_/)
-    let result = ''
-
-    if (str == str.toUppercase){
-        
+    let result = arr.map(x => x.charAt(0).toUpperCase()+x.substring(1)).join('')
+    
+    if (str.charAt(0) == str.charAt(0).toUpperCase()){
+        return result
+    }else{
+      	return result.charAt(0).toLowerCase()+result.substring(1)
     } 
 }
 
