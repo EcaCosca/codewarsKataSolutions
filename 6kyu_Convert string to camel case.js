@@ -8,14 +8,19 @@
 // "The_Stealth_Warrior" gets converted to "TheStealthWarrior"
 
 function toCamelCase(str){
+    const arr = str.split(/-|_/)
+    let result = ''
 
+    if (str == str.toUppercase){
+        
+    } 
 }
 
 console.log(toCamelCase(''))
 console.log('')
 
 console.log(toCamelCase("the_stealth_warrior"))
-console.log("TheStealthWarrior")
+console.log("theStealthWarrior")
 
 console.log(toCamelCase("The-Stealth-Warrior"))
 console.log("TheStealthWarrior")
