@@ -9,7 +9,7 @@ function removeChar(str){
     let arr = str.split('')
     arr.pop()
     arr.shift()
-    
+    console.log(arr)
 };
 
 console.log(removeChar('eloquent'))
