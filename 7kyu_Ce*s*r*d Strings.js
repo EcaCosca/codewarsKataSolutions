@@ -21,7 +21,14 @@ function uncensor(infected, discovered) {
     let infectedArr = infected.split('')
     let discoveredArr = discovered.split('')
 
-    return null;
+    for (let i = 0; i < infectedArr.length; i++) {
+        if (infectedArr[i] === "*") {
+            infectedArr.splice(i, 1, discoveredArr[0])
+            discoveredArr.splice(0, 1)
+        }
+    }
+
+    return infectedArr.join('');
 }
 
 uncensor('A**Z*N*', 'MAIG')
