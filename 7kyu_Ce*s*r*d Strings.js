@@ -16,3 +16,9 @@
 // Expect all discovered letters to be given in the correct order.
 // Discovered letters will match the number of censored ones.
 // Any character can be censored.
+
+function uncensor(infected, discovered) {
+    return null;
+}
+
+uncensor('A**Z*N*', 'MAIG')
