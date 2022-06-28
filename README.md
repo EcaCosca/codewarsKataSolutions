@@ -21,6 +21,7 @@ Here's a list of all the Katas you can find here.
 
 1. Transpose two strings in an array
 2. Turn the Mars rover to take pictures
+3. Ce*s*r*d Strings
 
 ## 6 kyu ##
 
