@@ -18,6 +18,9 @@
 // Any character can be censored.
 
 function uncensor(infected, discovered) {
+    let infectedArr = infected.split('')
+    let discoveredArr = discovered.split('')
+
     return null;
 }
 
