@@ -41,4 +41,7 @@ function uncensor(infected, discovered) {
 //     return i.split(``).map($=>$=='*'?_.pop():$).join(``)
 //   }
 
+// const uncensor = (infected, discovered, i = 0) =>
+//     infected.replace(/\*/g, () => discovered[i++]);
+
 uncensor('A**Z*N*', 'MAIG')
