@@ -31,4 +31,9 @@ function uncensor(infected, discovered) {
     return infectedArr.join('');
 }
 
+function uncensor(infected, discovered) {
+    const arr = [...discovered]
+    return [...infected].map(el=> el === '*' ? arr.shift() : el).join('')
+  }
+
 uncensor('A**Z*N*', 'MAIG')
