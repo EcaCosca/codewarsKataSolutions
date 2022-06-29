@@ -31,9 +31,14 @@ function uncensor(infected, discovered) {
     return infectedArr.join('');
 }
 
-function uncensor(infected, discovered) {
-    const arr = [...discovered]
-    return [...infected].map(el=> el === '*' ? arr.shift() : el).join('')
-  }
+// function uncensor(infected, discovered) {
+//     const arr = [...discovered]
+//     return [...infected].map(el=> el === '*' ? arr.shift() : el).join('')
+//   }
+
+// function uncensor(i, d) {
+//     _ = d.split(``).reverse()
+//     return i.split(``).map($=>$=='*'?_.pop():$).join(``)
+//   }
 
 uncensor('A**Z*N*', 'MAIG')
