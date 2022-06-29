@@ -34,3 +34,6 @@ function getSumOfDigits(integer) {
 // digits to a String, split to array and back to number 
 // for loop starting at 0 and ix on increments of one avreviated by ++
 // sum and changed the operator to += and indicating the index 
+
+// SHORT VERSION
+const getSumOfDigits = int => int.toString().split('').map(Number).reduce((a,b)=>a+b)
