@@ -28,3 +28,9 @@ function getSumOfDigits(integer) {
     }
     return sum;     
 }
+
+// Changes all the var to let
+// changed the value of sum to 0
+// digits to a String, split to array and back to number 
+// for loop starting at 0 and ix on increments of one avreviated by ++
+// sum and changed the operator to += and indicating the index 
