@@ -23,6 +23,7 @@ Here's a list of all the Katas you can find here.
 2. Turn the Mars rover to take pictures
 3. Ce*s*r*d Strings
 4. The highest profit wins!
+5. Debug Sum of Digits of a Number
 
 ## 6 kyu ##
 
