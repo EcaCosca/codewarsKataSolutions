@@ -24,6 +24,7 @@ Here's a list of all the Katas you can find here.
 3. Ce*s*r*d Strings
 4. The highest profit wins!
 5. Debug Sum of Digits of a Number
+6. Two to One
 
 ## 6 kyu ##
 
