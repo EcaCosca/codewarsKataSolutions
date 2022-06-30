@@ -6,8 +6,8 @@ This are my solutions, they are not the only way, I just want to be able to shar
 
 Here's a list of all the Katas you can find here.
 
-## 8 kyu ##
 
+## 8 kyu ##
 
 1. Count Odd Numbers below n
 2. Even or Odd
@@ -17,6 +17,7 @@ Here's a list of all the Katas you can find here.
 6. Define a card suit
 7. Remove First and Last Character
 
+
 ## 7 kyu ##
 
 1. Transpose two strings in an array
@@ -25,6 +26,7 @@ Here's a list of all the Katas you can find here.
 4. The highest profit wins!
 5. Debug Sum of Digits of a Number
 6. Two to One
+
 
 ## 6 kyu ##
 
