@@ -37,4 +37,4 @@ function getSumOfDigits(integer) {
 
 // SHORT VERSION
 
-const getSumOfDigits = int => int.toString().split('').map(Number).reduce((a,b)=>a+b)
+// const getSumOfDigits = int => int.toString().split('').map(Number).reduce((a,b)=>a+b)
