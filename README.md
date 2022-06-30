@@ -28,3 +28,4 @@ Here's a list of all the Katas you can find here.
 ## 6 kyu ##
 
 1. Convert string to camel case
+2. Your order, please
