@@ -12,8 +12,15 @@
 
 
 function longest(s1, s2) {
-    // your code
-  }
+	const arr = [...s1,...s2].sort()
+  const result = []
+  
+  arr.forEach((e) => {
+    if(!result.includes(e)){
+      result.push(e)
+    }
+  })
+}
 
 console.log(longest("aretheyhere", "yestheyarehere"))
 console.log("aehrsty")
