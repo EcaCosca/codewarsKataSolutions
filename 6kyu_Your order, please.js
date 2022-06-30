@@ -11,3 +11,15 @@
 // "4of Fo1r pe6ople g3ood th5e the2"  -->  "Fo1r the2 g3ood 4of th5e pe6ople"
 // ""  -->  ""
 
+function order(words){
+	const wordsArr = words.split(' ')
+  let res = []
+  
+  for (let i = 1; i < wordsArr.length+1; i++){
+    res.push(wordsArr.filter((word) => word.includes(i)))
+  }
+  
+  return res.join(' ')
+}
+
+console.log(order("is2 Thi1s T4est 3a"))
