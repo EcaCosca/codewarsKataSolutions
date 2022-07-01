@@ -10,7 +10,29 @@
 // "paper", "paper" --> "Draw!"
 
 const rps = (p1, p2) => {
-    if(p1 === p2){
+    let winner = 0;
+    
+      if(p1 === p2){
         return 'Draw!'
-    }
-};
+      }else if(p1 === 'scissors'){
+        if(p2 === 'rock'){
+          winner = 2
+        }else{
+          winner = 1
+        }
+      }else if(p1 === 'rock'){
+        if(p2 === 'paper'){
+          winner = 2
+        }else{
+          winner = 1
+        }
+      }else if(p1 === 'paper'){
+        if(p2 === 'scissors'){
+          winner = 2
+        }else{
+          winner = 1
+        }
+      }
+    
+    return `Player ${winner} won!`
+  };
