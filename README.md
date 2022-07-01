@@ -16,6 +16,7 @@ Here's a list of all the Katas you can find here.
 5. Invert values
 6. Define a card suit
 7. Remove First and Last Character
+8. Rock Paper Scissors!
 
 
 ## 7 kyu ##
