@@ -11,8 +11,15 @@
 // twoSum([1, 2, 3], 4) // returns [0, 2] or [2, 0]
 
 function twoSum(numbers, target) {
-    // ...
-}
+  
+    for (let a = 0; a < numbers.length; a++) {
+      for (let b = a + 1; b < numbers.length; b++) {
+        if (numbers[a] + numbers[b] === target) {
+          return [a, b]
+        }
+      }
+    }
+  }
 
 console.log(twoSum([1234,5678,9012],14690))
 console.log([1,2])
