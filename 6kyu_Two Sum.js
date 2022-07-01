@@ -10,3 +10,15 @@
 
 // twoSum([1, 2, 3], 4) // returns [0, 2] or [2, 0]
 
+function twoSum(numbers, target) {
+    // ...
+}
+
+console.log(twoSum([1234,5678,9012],14690))
+console.log([1,2])
+console.log(twoSum([1,2,3],4))
+console.log([0,2])
+console.log(twoSum([2,2,3],4))
+console.log([0,1])
+console.log(twoSum([2,3,1],4))
+console.log([1,2])
