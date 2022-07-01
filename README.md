@@ -1,4 +1,4 @@
-# codewarsKataSolutions
+# Codewars Kata Solutions
 
 Here's my solution to all the Katas I've done thus far in Codewars, trying to walk the path of a code ninja.
 
