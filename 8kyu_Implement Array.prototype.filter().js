@@ -13,9 +13,16 @@
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
 
 Array.prototype.filter = function (func) {
-    //nothing here, you will feel pretty awesome to write down by yourself
-    //have fun :)
-    return value >= 3
+    const filtered = [];
+
+    for (let i = 0; i < this.length; i++) {
+        if (func(this[i])) {
+          filtered.push(this[i]);
+        }
+      }
+
+
+    return filtered
   }
 
 //   Test.assertSimilar([1,2,3,4].filter((num)=>{ return num > 3}), [4])
