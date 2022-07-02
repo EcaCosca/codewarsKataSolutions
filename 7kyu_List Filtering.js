@@ -8,7 +8,13 @@
 // filter_list([1,2,'aasf','1','123',123]) == [1,2,123]
 
 function filter_list(l) {
-    // Return a new array with the strings filtered out
+    let onlyNumbers = [];
+    for (let i = 0; i < l.length; i++) {
+        if (typeof l[i] === 'number') {
+            onlyNumbers.push(l[i]);
+        }
+    }
+    return onlyNumbers;
 }
 
 console.log(filter_list([1,2,'a','b']))
