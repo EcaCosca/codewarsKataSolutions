@@ -7,15 +7,18 @@
 // filter_list([1,'a','b',0,15]) == [1,0,15]
 // filter_list([1,2,'aasf','1','123',123]) == [1,2,123]
 
-function filter_list(l) {
-    let onlyNumbers = [];
-    for (let i = 0; i < l.length; i++) {
-        if (typeof l[i] === 'number') {
-            onlyNumbers.push(l[i]);
-        }
-    }
-    return onlyNumbers;
-}
+// function filter_list(l) {
+//     let onlyNumbers = [];
+//     for (let i = 0; i < l.length; i++) {
+//         if (typeof l[i] === 'number') {
+//             onlyNumbers.push(l[i]);
+//         }
+//     }
+//     return onlyNumbers;
+// }
+
+// SHORT 
+const filter_list = (l) => l.filter(e => typeof e == 'number')
 
 console.log(filter_list([1,2,'a','b']))
 console.log([1,2])
