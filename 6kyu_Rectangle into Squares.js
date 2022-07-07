@@ -27,3 +27,9 @@
 // In that case the returned structure of C will have its sz component equal to 0.
 
 // Return the string "nil" with Bash, PowerShell, Pascal and Fortran.
+
+function sqInRect(lng, wdth){
+    //your code here
+  }
+
+  sqInRect(20, 14)
