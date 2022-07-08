@@ -29,7 +29,13 @@
 // Return the string "nil" with Bash, PowerShell, Pascal and Fortran.
 
 function sqInRect(lng, wdth){
-    //your code here
+  let arr = []
+  if(lng === wdth) return null
+  while(lng > 0 && wdth > 0){
+    arr.push(lng > wdth ? wdth : lng)
+    lng > wdth ? lng -= wdth : wdth -= lng
   }
+  return arr
+}
 
   sqInRect(20, 14)
