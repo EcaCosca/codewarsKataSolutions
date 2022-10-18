@@ -19,6 +19,7 @@ Here's a list of all the Katas you can find here.
 8. Rock Paper Scissors!
 9. Implement Array.prototype.filter()
 10. Subtract the Sum
+11. Pillars
 
 
 ## 7 kyu ##
