@@ -31,6 +31,7 @@ Here's a list of all the Katas you can find here.
 5. Debug Sum of Digits of a Number
 6. Two to One
 7. List Filtering
+8. Plus - minus - plus - plus - ... - Count
 
 
 ## 6 kyu ##
