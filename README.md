@@ -20,6 +20,7 @@ Here's a list of all the Katas you can find here.
 9. Implement Array.prototype.filter()
 10. Subtract the Sum
 11. Pillars
+12. MakeUpperCase
 
 
 ## 7 kyu ##
