@@ -21,6 +21,7 @@ Here's a list of all the Katas you can find here.
 10. Subtract the Sum
 11. Pillars
 12. MakeUpperCase
+13. Multiply
 
 
 ## 7 kyu ##
