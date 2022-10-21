@@ -44,3 +44,4 @@ Here's a list of all the Katas you can find here.
 2. Your order, please
 3. Two Sum
 4. Rectangle into Squares
+5. Clocky Mc Clock-Face
