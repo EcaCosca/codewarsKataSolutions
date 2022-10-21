@@ -35,6 +35,7 @@ Here's a list of all the Katas you can find here.
 7. List Filtering
 8. Plus - minus - plus - plus - ... - Count
 9. Make acronym
+10. Vowel Count
 
 
 ## 6 kyu ##
