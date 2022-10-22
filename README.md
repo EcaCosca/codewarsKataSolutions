@@ -36,6 +36,7 @@ Here's a list of all the Katas you can find here.
 8. Plus - minus - plus - plus - ... - Count
 9. Make acronym
 10. Vowel Count
+11. Split In Parts
 
 
 ## 6 kyu ##
