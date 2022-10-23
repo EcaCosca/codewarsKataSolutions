@@ -47,3 +47,4 @@ Here's a list of all the Katas you can find here.
 3. Two Sum
 4. Rectangle into Squares
 5. Clocky Mc Clock-Face
+6. Dead Ants
