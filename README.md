@@ -22,6 +22,7 @@ Here's a list of all the Katas you can find here.
 11. Pillars
 12. MakeUpperCase
 13. Multiply
+14. Return the day
 
 
 ## 7 kyu ##
