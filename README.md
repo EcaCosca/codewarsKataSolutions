@@ -54,4 +54,4 @@ Here's a list of all the Katas you can find here.
 08. Ascend, Descend, Repeat?
 09. Arabian String
 10. What century is it?
-11. Build a Tower
+11. Build Tower
