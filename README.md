@@ -1,10 +1,12 @@
 # Codewars Kata Solutions
 
+[![CodeWars](https://www.codewars.com/users/ecaCosca/badges/large)](https://www.codewars.com/users/ecaCosca)
+
 Here's my solution to all the Katas I've done thus far in Codewars, trying to walk the path of a code ninja.
 
-This are my solutions, they are not the only way, I just want to be able to share them and compare if I can.
+This is just one way to solve the kata, not the ONLY way, I just want to be able to share them and compare if I can.
 
-Here's a list of all the Katas you can find here.
+All of them are in JavaScript
 
 
 ## 8 kyu ##
