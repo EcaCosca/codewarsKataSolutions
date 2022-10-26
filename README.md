@@ -57,3 +57,4 @@ All of them are in JavaScript
 09. Arabian String
 10. What century is it?
 11. Build Tower
+12. Simple Fun #354: Lonely Frog III
