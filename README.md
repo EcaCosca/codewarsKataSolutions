@@ -51,3 +51,4 @@ Here's a list of all the Katas you can find here.
 5. Clocky Mc Clock-Face
 6. Dead Ants
 7. Does my number look big in this?
+8. Ascend, Descend, Repeat?
