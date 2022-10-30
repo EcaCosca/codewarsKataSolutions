@@ -6,7 +6,7 @@ Here's my solution to all the Katas I've done thus far in Codewars, trying to wa
 
 This is just one way to solve the kata, not the ONLY way, I just want to be able to share them and compare if I can.
 
-All of them are in JavaScript
+All of them are in JavaScript. GOOD LUCK!
 
 
 ## 8 kyu ##
