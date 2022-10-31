@@ -2,9 +2,9 @@
 
 [![CodeWars](https://www.codewars.com/users/ecaCosca/badges/large)](https://www.codewars.com/users/ecaCosca)
 
-Here's my solution to all the Katas I've done thus far in Codewars, trying to walk the path of a code ninja.
+Here's my solution to all the Katas I've done thus far in Codewars, trying to walk the path of the code ninja.
 
-This is just one way to solve the kata, not the ONLY way, I just want to be able to share them and compare if I can.
+This is just ONE way to solve the kata, not the ONLY way, I just want to be able to share them and compare if I can throught the process of teaching and learning by doing.
 
 All of them are in JavaScript. GOOD LUCK!
 
