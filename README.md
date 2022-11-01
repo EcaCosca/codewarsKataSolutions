@@ -27,6 +27,7 @@ All of them are in JavaScript. GOOD LUCK!
 14. Return the day
 15. You Can't Code Under Pressure #1
 16. Classic Hello World
+17. Remove String Spaces
 
 
 ## 7 kyu ##
